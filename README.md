@@ -1,6 +1,6 @@
 # Subreddit-Classification
 
-### 1. Introduction
+## 1. Introduction
 
 Reddit is an America-based social news aggregation, web content rating, and discussion website. Registered members submit content to the site in the form of links, text posts, and images, which are then voted up or down by other members. Subreddits are forums dedicated to specific topics (e.g. football, Avengers movie, food) within Reddit. <br>
 <br>Given the open nature of the forums, topics are rarely moderated, unless deemed to be flouting Reddit's usage policy, and can have high level of overlaps (e.g. Machine Learning and Artificial Intelligence).
