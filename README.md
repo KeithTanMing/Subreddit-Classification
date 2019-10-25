@@ -1,6 +1,7 @@
 # Subreddit-Classification
 
-#### Refer to Classification 
+#### Refer to 'Classification of Subreddits (main)' notebook for data cleaning, analysis and modelling
+#### Refer to 'Reddit Scrapping' notebook for Praw's Reddit API Wrapper
 
 ## 1. Introduction
 
