@@ -19,12 +19,14 @@ __Choice of Subreddit:__
 
 A Praw API Wrapper customized for Reddit was utilized to scrap up to 1,000 posts from each subreddit, saved into a dataframe, and exported to two excel files (nosleep.csv, raok.csv), for storage and further discovery.
 
-
 ## 2. Executive Summary
 
 Posts from both subreddits are scraped using API, analyzed, cleaned, processed and ran through several classification models (e.g. Logistic Regression, KNearestNeighbor, Decision Tree Classifier). 
 
 The model that performed the best came from a __Logistic Regression with Count Vectorizer__, at a classification prediction accuracy rate of __99%__. 
+
+Word Cloud visualization for most appeared words in both subreddits:
+[WordCloud](
 
 The high accuracy rates are unsurprising for two reasons:
 - Both posts engage in topics that have very little overlap, leading to distinct classification identifiers from both posts;
