@@ -26,7 +26,7 @@ Posts from both subreddits are scraped using API, analyzed, cleaned, processed a
 The model that performed the best came from a __Logistic Regression with Count Vectorizer__, at a classification prediction accuracy rate of __99%__. 
 
 Word Cloud visualization for most appeared words in both subreddits:
-[WordCloud](/WordCloud.png)
+[WordCloud](WordCloud.png)
 
 The high accuracy rates are unsurprising for two reasons:
 - Both posts engage in topics that have very little overlap, leading to distinct classification identifiers from both posts;
