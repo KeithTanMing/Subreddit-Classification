@@ -17,7 +17,7 @@ __Choice of Subreddit:__
 - Nosleep is a subreddit for realistic horror stories.
 - Randomactsofkindness is a subreddit for non-fictional stories on inspiration and kindness occurences. 
 
-<br> A Praw API Wrapper customized for Reddit was utilized to scrap up to 1,000 posts from each subreddit, saved into a dataframe, and exported to two excel files (nosleep.csv, raok.csv), for storage and further discovery.
+A Praw API Wrapper customized for Reddit was utilized to scrap up to 1,000 posts from each subreddit, saved into a dataframe, and exported to two excel files (nosleep.csv, raok.csv), for storage and further discovery.
 
 
 ## 2. Executive Summary
